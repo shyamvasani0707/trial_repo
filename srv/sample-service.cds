@@ -2,5 +2,6 @@ using trial as t from '../db/data-model';
 
 
 service Sample {
-    entity Sample as select from t.DUMMY;
+    entity Sample1 as select from t.DUMMY;
 } // change from bas
+// push new changes
